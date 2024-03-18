@@ -59,15 +59,8 @@ class Point:
 
     def halfway(self, p2):
         """
-        Takes two points and returns the halfway 
-        (middle point).
-        This method should return a Point type.
+        Takes two points and returns the midpoint
         """
-        ######################################
-        # TODO
-        # Remove the pass statement and finish 
-        # this method
-        ######################################
         x1 = (self.x + p2.x) / 2
         y1 = (self.y + p2.y) / 2
         return '(' + str(x1) + ', ' + str(y1) + ')'
