@@ -1,13 +1,13 @@
-# Python Projects Showcase
+# Python Showcase
 
-Welcome to my Python Projects Showcase repository! This collection of Python projects is designed to demonstrate my proficiency and experience with Python programming. Each project showcases different aspects of Python development, including problem-solving, algorithm implementation, data manipulation, and more.
+Welcome to my Python Showcase repository! This collection of Python and Jupyter Notebook projects is designed to demonstrate my proficiency and experience with Python programming basics. Each project showcases different aspects of Python development, including problem-solving, algorithm implementation, data manipulation, and more.
 
 ### Table of Contents
 
-- Project 1: 
-- Project 2: 
-- Project 3: 
-- Project 4: 
+- [Classes and Objects](https://github.com/wetzelTanner/Python-Projects/tree/main/classes-objects)
+- [Data Visualization](https://github.com/wetzelTanner/Python-Projects/tree/main/data-visualization)
+- [Labs and Projects](https://github.com/wetzelTanner/Python-Projects/tree/main/labs-projects)
+- [Libraries and Modules](https://github.com/wetzelTanner/Python-Projects/tree/main/libraries-modules)
 
 #### Project 1: 
 
